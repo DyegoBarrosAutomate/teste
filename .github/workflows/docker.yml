@@ -16,7 +16,7 @@ jobs:
         uses: docker/login-action@f4ef78c080cd8ba55a85445d5b36e214a81df20a
         with:
           username: "dyegodev30"
-          password: "Dyego050291"
+          password: "dckr_pat_QZf6qc6slubGle9VbCHmdQFU7QU"
       
       - name: Extração de dados do Docker
         id: meta
