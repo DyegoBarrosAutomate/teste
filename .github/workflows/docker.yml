@@ -30,3 +30,4 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: "teste_push_dockerhub"
+          #####################################
